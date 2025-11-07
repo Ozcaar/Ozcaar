@@ -39,7 +39,7 @@ Developed with **ASP.NET Core**, **EF Core**, and **Vue**, emphasizing scalabili
 
 #### 💜 Aromalia
 An e-commerce ecosystem prototype including backend services and a C# desktop client for administration.  
-Built to explore microservice concepts and interface integration with APIs, using **Java**, **Spring Boot**, and **.NET**.
+Built to explore concepts and interface integration with APIs, using **Java**, **Spring Boot**, and **.NET**.
 
 ---
 
