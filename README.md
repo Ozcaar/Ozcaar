@@ -1,94 +1,52 @@
-<!-- ✨ Modern GitHub Profile for Ozcaar ✨ -->
-<!-- Tip: keep your profile repo name exactly as your username (Ozcaar) -->
+<!-- Encabezado -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,24&height=100&section=header" width="100%" />
 
-<!-- Header -->
-<h1 align="center">👋 ¡Hola, soy Oscar López!</h1>
-
-<p align="center">
-  <em>Full-Stack Developer | Java & .NET | Vue/Nuxt | UI-Driven Engineer | AR Enthusiast</em>
-</p>
+<h1 align="center">👋 Hey there, I'm <b>Oscar López</b></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=3500&pause=800&color=8B5CF6&center=true&vCenter=true&width=500&lines=Desarrollo+software+moderno;Arquitectura+limpia+y+API+First;UI%2FUX+como+experiencia+de+marca;Innovando+con+tecnología+y+diseño" alt="typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=84C5F4&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%7C+Java%2C+.NET%2C+Vue%2FNuxt;Building+modern+web+experiences;Passionate+about+clean+architecture+and+design;Always+learning%2C+always+creating!" />
 </p>
 
 ---
 
-### 🧭 Sobre mí
-Soy un desarrollador full-stack de Monterrey 🇲🇽, apasionado por crear soluciones con **arquitectura limpia**, **interfaces funcionales** y **experiencias interactivas**.  
-Combino backend sólido con frontend atractivo y me gusta trabajar proyectos que mezclen **tecnología, diseño y propósito**.
+### ✨ About Me
 
-💡 *Mi enfoque: construir productos bien pensados, mantenibles y hermosos.*
+🎯 **Full-stack developer** focused on creating modern, efficient, and visually stunning web applications.  
+💡 I enjoy blending **technology and design** — from backend APIs to user interfaces.  
+🌎 Based in **Mexico**, working on personal and freelance projects.  
+🧩 Currently developing:
+- `InviRtual` — a digital invitations platform with Nuxt + Spring Boot  
+- Small business tools built with **.NET + SQL Server**  
+- Experiments with **Unity ARCore**
 
----
+```typescript
+const oscar = {
+  code: ["Java", "TypeScript", "C#", "Python"],
+  frameworks: ["Spring Boot", "Nuxt 4", "Vue 3", "ASP.NET Core"],
+  tools: ["Docker", "GitHub Actions", "TailwindCSS", "Cloudflare"],
+  interests: ["UX", "Clean Architecture", "Microservices", "AR/VR"],
+  motto: "Design with empathy. Build with precision.",
+};
+⚙️ Languages & Frameworks
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,py,js,ts,vue,nuxt,html,css,tailwind,bootstrap&perline=8" /> </a> </p>
+🛠 Tools, Cloud & DevOps
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,visualstudio,postman,figma,cloudflare,vercel,aws,linux&perline=9" /> </a> </p>
+💼 Featured Projects
+Project	Description	Tech
+🟣 InviRtual	Digital invitation platform with builder, templates, RSVP & admin dashboard	Spring Boot, Nuxt 4, PostgreSQL, Docker
+🟩 Sistema de Ventas	API REST for sales & inventory management (.NET)	ASP.NET Core, EF Core, SQL Server
+🧠 AI Experiments	Small projects for NLP and image processing models	Python, TensorFlow, Keras
+🎮 AR DinoScale	AR app to compare dinosaur heights in real time	Unity, ARCore, C#
 
-### ⚙️ Stack principal
+📈 GitHub Stats
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Ozcaar&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8BE9FD&icon_color=50FA7B&text_color=F8F8F2&include_all_commits=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ozcaar&layout=compact&hide_border=true&bg_color=0D1117&title_color=8BE9FD&text_color=F8F8F2&langs_count=8" height="170" />
 
-#### 🖥️ Backend
-`Java` · `Spring Boot` · `PostgreSQL` · `Docker` · `JWT Auth` · `MapStruct` · `RESTful APIs`
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ozcaar&hide_border=true&background=0D1117&ring=50FA7B&fire=F1FA8C&currStreakLabel=8BE9FD&sideNums=F8F8F2&sideLabels=8BE9FD&dates=F8F8F2" width="100%" />
 
-#### 🌐 Frontend
-`Nuxt 4` · `Vue 3` · `TailwindCSS` · `DaisyUI` · `TypeScript` · `Pinia`
-
-#### 🧩 Otros
-`.NET Core` · `Entity Framework` · `Unity (ARCore)` · `GitHub Actions` · `Linux Containers`
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,vue,nuxt,ts,tailwind,postgresql,docker,dotnet,unity,github" />
-</p>
-
----
-
-### 🚀 Proyectos recientes
-
-#### 🟣 InviRtual
-> Plataforma de **invitaciones digitales** con arquitectura modular y builder visual.  
-> Backend: *Spring Boot + PostgreSQL + Docker*  
-> Frontend: *Nuxt 4 + Tailwind + DaisyUI (privado por ahora)*  
-> ✨ **En desarrollo:** plantillas, RSVP, registro de regalos y galerías.
-
-#### 🟩 Sistema de Ventas (.NET)
-> Aplicación **MVC + API REST** con gestión de productos, ventas y reportes.  
-> Stack: *C#, ASP.NET Core, EF Core, SQL Server, DataTables*.
-
-#### 🟧 DinoScale AR
-> App educativa en **Unity + ARCore** para comparar alturas de dinosaurios en realidad aumentada.  
-> Proyecto académico-experimental sobre **AR aplicada a la educación interactiva**.
-
----
-
-### 🎨 En lo que me enfoco
-- Diseños que **cuentan una historia**.  
-- Códigos que **resisten el tiempo**.  
-- Arquitecturas que **escala sin romperse**.  
-- Experimentos que **mezclan creatividad + ingeniería**.
-
----
-
-### 📊 Estadísticas
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Ozcaar&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=Ozcaar&theme=transparent&hide_border=true" />
-</p>
-
----
-
-### 🌍 Encuéntrame también
-<p align="center">
-  <a href="https://github.com/Ozcaar"><img src="https://img.shields.io/badge/GitHub-Ozcaar-181717?logo=github&style=for-the-badge" /></a>
-  <a href="https://www.linkedin.com/in/oscar-lopez-dev"><img src="https://img.shields.io/badge/LinkedIn-Oscar%20López-0A66C2?logo=linkedin&style=for-the-badge" /></a>
-  <a href="mailto:ozcaar.dev@gmail.com"><img src="https://img.shields.io/badge/Email-ozcaar.dev%40gmail.com-D14836?logo=gmail&style=for-the-badge" /></a>
-</p>
-
----
-
-### ☕ Extra
-> “El código es mi forma de diseñar experiencias.”  
-> *Me motiva ver cómo una buena arquitectura y una buena interfaz pueden transformar una idea en algo memorable.*
-
----
-
-<!-- Footer -->
-<p align="center">
-  <sub>💜 Diseñado con pasión y café por <a href="https://github.com/Ozcaar">Ozcaar</a></sub>
-</p>
+</div>
+🌐 Connect With Me
+<p align="center"> <a href="mailto:ozcaar.dev@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/ozcaar"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/Ozcaar"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://t.me/ozcaar"> <img src="https://img.shields.io/badge/Telegram-Chat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /> </a> </p>
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ozcaar&bg_color=0D1117&color=8BE9FD&line=50FA7B&point=F1FA8C&area_color=50FA7B&hide_border=true" width="100%" /> </div>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,24&height=100&section=footer" width="100%" /> </p> <p align="center"> <sub>💜 “The best way to predict the future is to create it.” — <b>Alan Kay</b></sub><br/> <sub>Made with ❤️ by <a href="https://github.com/Ozcaar">Ozcaar</a></sub> </p> ```
