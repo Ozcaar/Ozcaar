@@ -48,7 +48,7 @@ Built to explore concepts and interface integration with APIs, using **Java**, *
   <a href="mailto:oscar.dlpzp@gmail.com"> 
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> 
   </a> 
-  <a href="https://www.linkedin.com/in/oscar-l%C3%B3pez-7b45a5201/"> 
+  <a href="www.linkedin.com/in/ozcaar"> 
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
   </a> 
   <a href="https://github.com/Ozcaar"> 
