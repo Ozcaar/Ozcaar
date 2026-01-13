@@ -1,7 +1,7 @@
 <!-- Encabezado -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,24&height=100&section=header" width="100%" />
 
-<h1 align="center">👋 Hey there, I'm <b>Oscar</b></h1>
+<h1 align="center">👋 Hi! I'm <b>Oscar</b></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=84C5F4&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%7C+Java%2C+.NET%2C+Vue%2FNuxt;Building+modern+web+experiences;Passionate+about+clean+architecture+and+design;Always+learning%2C+always+creating!" />
